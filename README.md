@@ -1,65 +1,63 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Ribhu%20Mukherjee&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Educator%20%E2%80%A2%20Agent%20Builder%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=24C6DC&center=true&vCenter=true&width=640&lines=Building+AI+agents+that+actually+work+%F0%9F%A4%96;Teaching+AI+careers+to+thousands+%F0%9F%9A%80;n8n+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Automation;IIIT+Bangalore+alum+%F0%9F%8E%93" alt="Typing SVG" /></a>
-
-<br/>
-
-<a href="https://www.instagram.com/ribhu_susmita/"><img src="https://img.shields.io/badge/Instagram-@ribhu__susmita-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=ribhu0908&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-### 🧠 About me
-
-```js
-const ribhu = {
-  education:  "IIIT Bangalore",
-  building:   ["AI agents", "n8n automations", "RAG pipelines"],
-  teaching:   "AI Career & Agents Accelerator 🚀",
-  creating:   "AI content on Instagram @ribhu_susmita",
-  funFact:    "Built a grocery-list app for my mom — still her favourite app 😄",
-};
-```
-
-### 🛠️ Tech stack
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Ribhu Mukherjee"/>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,java,c,python&perline=10" />
+  <a href="https://www.instagram.com/ribhu_susmita/"><img src="https://img.shields.io/badge/Instagram-@ribhu__susmita-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/AI%20Agents-Builder-24c6dc?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IIIT-Bangalore-8a7cff?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=ribhu0908&style=for-the-badge&color=ff4fd8&label=VISITORS"/>
+</p>
+
+<p align="center">
+  <img src="./assets/terminal.svg" width="85%" alt="whoami"/>
+</p>
+
+<h2 align="center">⚡ Tech arsenal</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,c,html,css&theme=dark&perline=10" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,linux,vscode,postman,heroku&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,jenkins,linux,vscode,postman,heroku&theme=dark&perline=10" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-24C6DC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-24c6dc?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8a7cff?style=flat-square"/>
 </p>
 
-### 🚀 Featured projects
+<h2 align="center">🏙️ My contribution city</h2>
 
 <p align="center">
-  <a href="https://github.com/ribhu0908/Blog-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=Blog-website&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/ribhu0908/Customized-ToDoList"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=Customized-ToDoList&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/ribhu0908/Notes-Keeping-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=Notes-Keeping-App&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/ribhu0908/RESTful-API--MyWiki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=RESTful-API--MyWiki&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/ribhu0908/FullStack-DevOps-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=FullStack-DevOps-Project&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/ribhu0908/Text-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=Text-Classification&theme=tokyonight&hide_border=true" /></a>
+  <img src="https://raw.githubusercontent.com/ribhu0908/ribhu0908/output/profile-night-rainbow.svg" width="95%" alt="3D contributions"/>
 </p>
 
-### 📊 GitHub stats
+<h2 align="center">🚀 Featured builds</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ribhu0908&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=ribhu0908&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ribhu0908&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <a href="https://github.com/ribhu0908/Blog-website"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=Blog-website&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/ribhu0908/Customized-ToDoList"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=Customized-ToDoList&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/ribhu0908/Notes-Keeping-App"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=Notes-Keeping-App&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/ribhu0908/RESTful-API--MyWiki"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=RESTful-API--MyWiki&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/ribhu0908/FullStack-DevOps-Project"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=FullStack-DevOps-Project&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/ribhu0908/Text-Classification"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=Text-Classification&theme=radical&hide_border=true&bg_color=0d1117" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<h2 align="center">📊 Stats</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ribhu0908&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ribhu0908&theme=radical&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ribhu0908/ribhu0908/output/snake.svg" width="95%" alt="snake eating my contributions"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=8A7CFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let's+build+something+intelligent+together+%F0%9F%A4%96" />
+</p>

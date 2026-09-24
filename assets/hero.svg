@@ -21,6 +21,7 @@
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#24c6dc" stroke-opacity="0.09" stroke-width="1"/>
     </pattern>
+  <linearGradient id="ul" gradientUnits="userSpaceOnUse" x1="80" y1="0" x2="600" y2="0"><stop offset="0" stop-color="#24c6dc"/><stop offset="0.5" stop-color="#8a7cff"/><stop offset="1" stop-color="#ff4fd8" stop-opacity="0"/></linearGradient>
   </defs>
   <style>
     .blob { animation: float 12s ease-in-out infinite alternate; }
@@ -45,7 +46,7 @@
     @keyframes spin { to { transform: rotate(360deg); } }
     .core { animation: pulse 2.4s ease-in-out infinite; transform-origin: 1040px 190px; }
     @keyframes pulse { 0%, 100% { transform: scale(1); opacity: .9; } 50% { transform: scale(1.18); opacity: 1; } }
-    .line { stroke: url(#name); stroke-width: 3; stroke-dasharray: 520; stroke-dashoffset: 520; animation: draw 1.6s ease forwards 1s; }
+    .line { stroke: url(#ul); stroke-width: 3; stroke-dasharray: 520; stroke-dashoffset: 520; animation: draw 1.6s ease forwards 1s; }
     @keyframes draw { to { stroke-dashoffset: 0; } }
   </style>
 

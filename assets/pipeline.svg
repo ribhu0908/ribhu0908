@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="260" viewBox="0 0 1100 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070914"/><stop offset="1" stop-color="#0d0a24"/>
+    </linearGradient>
+    <linearGradient id="wire" gradientUnits="userSpaceOnUse" x1="150" y1="0" x2="940" y2="0">
+      <stop offset="0" stop-color="#24c6dc"/><stop offset="0.5" stop-color="#8a7cff"/><stop offset="1" stop-color="#ff4fd8"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#8a7cff" fill-opacity="0.18"/>
+    </pattern>
+  </defs>
+  <style>
+    .t { font: 700 17px 'Segoe UI', Arial, sans-serif; fill: #e6edf3; }
+    .s { font: 13px 'Consolas', monospace; fill: #8b949e; }
+    .h { font: 700 14px 'Consolas', monospace; fill: #24c6dc; letter-spacing: 3px; }
+    .node { animation: pop 6s ease-in-out infinite; }
+    .n2 { animation-delay: 1.5s; } .n3 { animation-delay: 3s; } .n4 { animation-delay: 4.5s; }
+    @keyframes pop { 0%, 20%, 100% { stroke-opacity: .35; } 8% { stroke-opacity: 1; } }
+    .dash { stroke-dasharray: 6 8; animation: flow 1s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -14; } }
+    .ok { animation: ok 6s infinite; opacity: 0; }
+    @keyframes ok { 0%, 75% { opacity: 0; } 80%, 95% { opacity: 1; } 100% { opacity: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="1098" height="258" rx="18" fill="url(#bg)" stroke="#302b63" stroke-width="2"/>
+  <rect x="1" y="1" width="1098" height="258" rx="18" fill="url(#dots)"/>
+  <text class="h" x="36" y="44">// HOW MY AI AGENTS THINK</text>
+
+  <!-- wires -->
+  <path d="M235 140 H325" stroke="url(#wire)" stroke-width="3" class="dash" fill="none"/>
+  <path d="M495 140 H585" stroke="url(#wire)" stroke-width="3" class="dash" fill="none"/>
+  <path d="M755 140 H845" stroke="url(#wire)" stroke-width="3" class="dash" fill="none"/>
+
+  <!-- nodes -->
+  <g>
+    <rect class="node" x="65" y="80" width="170" height="120" rx="16" fill="#101528" stroke="#24c6dc" stroke-width="2" filter="url(#glow)"/>
+    <text x="150" y="128" text-anchor="middle" font-size="32">⚡</text>
+    <text class="t" x="150" y="162" text-anchor="middle">Trigger</text>
+    <text class="s" x="150" y="184" text-anchor="middle">webhook · form · cron</text>
+  </g>
+  <g>
+    <rect class="node n2" x="325" y="80" width="170" height="120" rx="16" fill="#101528" stroke="#8a7cff" stroke-width="2" filter="url(#glow)"/>
+    <text x="410" y="128" text-anchor="middle" font-size="32">🧠</text>
+    <text class="t" x="410" y="162" text-anchor="middle">LLM Brain</text>
+    <text class="s" x="410" y="184" text-anchor="middle">Claude · GPT · Gemini</text>
+  </g>
+  <g>
+    <rect class="node n3" x="585" y="80" width="170" height="120" rx="16" fill="#101528" stroke="#c55cf0" stroke-width="2" filter="url(#glow)"/>
+    <text x="670" y="128" text-anchor="middle" font-size="32">📚</text>
+    <text class="t" x="670" y="162" text-anchor="middle">RAG Memory</text>
+    <text class="s" x="670" y="184" text-anchor="middle">Qdrant vectors</text>
+  </g>
+  <g>
+    <rect class="node n4" x="845" y="80" width="190" height="120" rx="16" fill="#101528" stroke="#ff4fd8" stroke-width="2" filter="url(#glow)"/>
+    <text x="940" y="128" text-anchor="middle" font-size="32">🚀</text>
+    <text class="t" x="940" y="162" text-anchor="middle">Action</text>
+    <text class="s" x="940" y="184" text-anchor="middle">resume · email · report</text>
+  </g>
+
+  <!-- data packets riding the flow -->
+  <circle r="7" fill="#24c6dc" filter="url(#glow)">
+    <animateMotion dur="6s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.02;0.75;1" calcMode="linear" path="M150 140 H940"/>
+    <animate attributeName="fill" values="#24c6dc;#8a7cff;#c55cf0;#ff4fd8;#ff4fd8" keyTimes="0;0.25;0.5;0.75;1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="4" fill="#ffffff" opacity="0.8" filter="url(#glow)">
+    <animateMotion dur="6s" begin="0.25s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.02;0.75;1" calcMode="linear" path="M150 140 H940"/>
+  </circle>
+
+  <text class="s ok" x="940" y="226" text-anchor="middle" style="fill:#27c93f;font-weight:700">✔ task complete</text>
+</svg>

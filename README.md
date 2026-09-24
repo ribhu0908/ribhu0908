@@ -30,32 +30,21 @@
   <img src="https://img.shields.io/badge/Prompt%20Engineering-8a7cff?style=flat-square"/>
 </p>
 
-<h2 align="center">🏙️ My contribution city</h2>
+<h2 align="center">🤖 What I build</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ribhu0908/ribhu0908/output/profile-night-rainbow.svg" width="95%" alt="3D contributions"/>
+  <img src="./assets/pipeline.svg" width="100%" alt="AI agent pipeline"/>
 </p>
 
 <h2 align="center">🚀 Featured builds</h2>
 
 <p align="center">
-  <a href="https://github.com/ribhu0908/Blog-website"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=Blog-website&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/ribhu0908/Customized-ToDoList"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=Customized-ToDoList&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/ribhu0908/Notes-Keeping-App"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=Notes-Keeping-App&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/ribhu0908/RESTful-API--MyWiki"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=RESTful-API--MyWiki&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/ribhu0908/FullStack-DevOps-Project"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=FullStack-DevOps-Project&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/ribhu0908/Text-Classification"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ribhu0908&repo=Text-Classification&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-</p>
-
-<h2 align="center">📊 Stats</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ribhu0908&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=ribhu0908&theme=radical&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ribhu0908/ribhu0908/output/snake.svg" width="95%" alt="snake eating my contributions"/>
+  <a href="https://github.com/ribhu0908/Blog-website"><img width="49%" src="./assets/card-1.svg" alt="Blog-website"/></a>
+  <a href="https://github.com/ribhu0908/Customized-ToDoList"><img width="49%" src="./assets/card-2.svg" alt="Customized-ToDoList"/></a>
+  <a href="https://github.com/ribhu0908/Notes-Keeping-App"><img width="49%" src="./assets/card-3.svg" alt="Notes-Keeping-App"/></a>
+  <a href="https://github.com/ribhu0908/RESTful-API--MyWiki"><img width="49%" src="./assets/card-4.svg" alt="RESTful-API--MyWiki"/></a>
+  <a href="https://github.com/ribhu0908/FullStack-DevOps-Project"><img width="49%" src="./assets/card-5.svg" alt="FullStack-DevOps-Project"/></a>
+  <a href="https://github.com/ribhu0908/Text-Classification"><img width="49%" src="./assets/card-6.svg" alt="Text-Classification"/></a>
 </p>
 
 <p align="center">

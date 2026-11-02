@@ -17,7 +17,7 @@
   <rect x="1" y="1" width="898" height="38" rx="14" fill="#161b2e"/>
   <rect x="1" y="26" width="898" height="13" fill="#161b2e"/>
   <circle cx="26" cy="20" r="7" fill="#ff5f56"/><circle cx="50" cy="20" r="7" fill="#ffbd2e"/><circle cx="74" cy="20" r="7" fill="#27c93f"/>
-  <text x="450" y="26" text-anchor="middle" fill="#8b949e" style="font-size:14px">ribhu@ai-lab: ~</text>
+  <text x="450" y="26" text-anchor="middle" fill="#8b949e" style="font-size:14px">ribhu@firmware-lab: ~</text>
 
   <!-- each line types itself in by growing its clip rect -->
   <defs>
@@ -32,11 +32,11 @@
   </defs>
 
   <g clip-path="url(#l1)"><text x="28" y="82"><tspan class="p">➜ ~</tspan><tspan class="c"> whoami</tspan></text></g>
-  <g clip-path="url(#l2)"><text x="28" y="114" class="o">Ribhu Mukherjee — AI Educator &amp; Agent Builder · IIIT Bangalore 🎓</text></g>
+  <g clip-path="url(#l2)"><text x="28" y="114" class="o">Ribhu Mukherjee — Embedded SW Engineer @ Qualcomm · IIIT-B 🎓</text></g>
   <g clip-path="url(#l3)"><text x="28" y="156"><tspan class="p">➜ ~</tspan><tspan class="c"> cat what_i_build.txt</tspan></text></g>
-  <g clip-path="url(#l4)"><text x="28" y="188" class="o">🤖 AI agents  ·  ⚙️ n8n automations  ·  📚 RAG pipelines  ·  🧠 LLM apps</text></g>
-  <g clip-path="url(#l5)"><text x="28" y="230"><tspan class="p">➜ ~</tspan><tspan class="c"> cat now_teaching.txt</tspan></text></g>
-  <g clip-path="url(#l6)"><text x="28" y="262" class="o">🚀 AI Career &amp; Agents Accelerator — helping people land AI-era jobs</text></g>
+  <g clip-path="url(#l4)"><text x="28" y="188" class="o">🔧 Firmware  ·  🐧 Linux drivers  ·  🖥️ GPU/RTOS  ·  🤖 AI dev tools</text></g>
+  <g clip-path="url(#l5)"><text x="28" y="230"><tspan class="p">➜ ~</tspan><tspan class="c"> cat side_quest.txt</tspan></text></g>
+  <g clip-path="url(#l6)"><text x="28" y="262" class="o">🚀 Mentoring engineers on careers, GATE &amp; AI-era jobs</text></g>
   <g clip-path="url(#l7)"><text x="28" y="304"><tspan class="p">➜ ~</tspan><tspan class="c"> echo $SOCIALS</tspan></text></g>
   <g clip-path="url(#l8)"><text x="28" y="336"><tspan class="k">📸 Instagram</tspan><tspan class="o"> → @ribhu_susmita</tspan></text></g>
 

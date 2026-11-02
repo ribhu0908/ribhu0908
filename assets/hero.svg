@@ -75,7 +75,7 @@
     <g class="core">
       <circle cx="1040" cy="190" r="44" fill="#24c6dc" opacity="0.15"/>
       <circle cx="1040" cy="190" r="28" fill="none" stroke="#24c6dc" stroke-width="3" filter="url(#glow)"/>
-      <text x="1040" y="199" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="24" fill="#e6edf3">AI</text>
+      <text x="1040" y="199" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="17" fill="#e6edf3">SoC</text>
     </g>
     <g fill="#ff4fd8">
       <circle r="5" filter="url(#glow)"><animateMotion dur="6s" repeatCount="indefinite" path="M1040 80 a110 110 0 1 1 -0.1 0z"/></circle>
@@ -88,9 +88,9 @@
     <text class="hi" x="80" y="110">&gt; HELLO WORLD, I'M</text>
     <text class="name" x="76" y="195" fill="url(#name)" filter="url(#glow)">RIBHU MUKHERJEE</text>
     <line class="line" x1="80" y1="222" x2="600" y2="222"/>
-    <text class="role" x="80" y="275">🤖  I build AI agents that actually work</text>
-    <text class="role r2" x="80" y="275">🚀  I teach AI careers to thousands</text>
-    <text class="role r3" x="80" y="275">⚡  n8n · LLMs · RAG · Automation</text>
+    <text class="role" x="80" y="275">🔧  Embedded firmware engineer @ Qualcomm</text>
+    <text class="role r2" x="80" y="275">🐧  Linux drivers · RTOS · GPU systems</text>
+    <text class="role r3" x="80" y="275">⚡  C · ARM · Zephyr · UEFI · AI tooling</text>
   </g>
   <rect width="1198" height="378" x="1" y="1" rx="22" fill="none" stroke="#24c6dc" stroke-opacity="0.35"/>
 </svg>

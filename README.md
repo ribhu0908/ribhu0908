@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Ribhu Mukherjee"/>
+  <img src="./assets/hero-v2.svg" width="100%" alt="Ribhu Mukherjee"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="85%" alt="whoami"/>
+  <img src="./assets/terminal-v2.svg" width="85%" alt="whoami"/>
 </p>
 
 <p align="center">

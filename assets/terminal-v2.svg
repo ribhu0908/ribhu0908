@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400">
+  <style>
+    text { font: 17px 'Consolas', 'Courier New', monospace; }
+    .p { fill: #24c6dc; font-weight: 700; }
+    .c { fill: #e6edf3; }
+    .o { fill: #a5b4fc; }
+    .k { fill: #ff79c6; }
+    .cursor { fill: #24c6dc; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1320"/><stop offset="1" stop-color="#080a12"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="398" rx="14" fill="url(#win)" stroke="#302b63" stroke-width="2"/>
+  <rect x="1" y="1" width="898" height="38" rx="14" fill="#161b2e"/>
+  <rect x="1" y="26" width="898" height="13" fill="#161b2e"/>
+  <circle cx="26" cy="20" r="7" fill="#ff5f56"/><circle cx="50" cy="20" r="7" fill="#ffbd2e"/><circle cx="74" cy="20" r="7" fill="#27c93f"/>
+  <text x="450" y="26" text-anchor="middle" fill="#8b949e" style="font-size:14px">ribhu@firmware-lab: ~</text>
+
+  <!-- each line types itself in by growing its clip rect -->
+  <defs>
+    <clipPath id="l1"><rect x="0" y="60" height="30" width="0"><animate attributeName="width" from="0" to="900" dur="0.9s" begin="0.4s" fill="freeze" calcMode="discrete" values="0;120;200;280;900" keyTimes="0;0.25;0.5;0.75;1"/></rect></clipPath>
+    <clipPath id="l2"><rect x="0" y="92" height="30" width="0"><animate attributeName="width" to="900" dur="0.01s" begin="1.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l3"><rect x="0" y="134" height="30" width="0"><animate attributeName="width" values="0;150;240;900" keyTimes="0;0.33;0.66;1" calcMode="discrete" dur="0.9s" begin="2.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l4"><rect x="0" y="166" height="30" width="0"><animate attributeName="width" to="900" dur="0.01s" begin="3.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l5"><rect x="0" y="208" height="30" width="0"><animate attributeName="width" values="0;150;260;900" keyTimes="0;0.33;0.66;1" calcMode="discrete" dur="0.9s" begin="4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l6"><rect x="0" y="240" height="30" width="0"><animate attributeName="width" to="900" dur="0.01s" begin="5.1s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l7"><rect x="0" y="282" height="30" width="0"><animate attributeName="width" values="0;150;260;900" keyTimes="0;0.33;0.66;1" calcMode="discrete" dur="0.9s" begin="5.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l8"><rect x="0" y="314" height="30" width="0"><animate attributeName="width" to="900" dur="0.01s" begin="6.9s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#l1)"><text x="28" y="82"><tspan class="p">➜ ~</tspan><tspan class="c"> whoami</tspan></text></g>
+  <g clip-path="url(#l2)"><text x="28" y="114" class="o">Ribhu Mukherjee — Embedded SW Engineer @ Qualcomm · IIIT-B 🎓</text></g>
+  <g clip-path="url(#l3)"><text x="28" y="156"><tspan class="p">➜ ~</tspan><tspan class="c"> cat what_i_build.txt</tspan></text></g>
+  <g clip-path="url(#l4)"><text x="28" y="188" class="o">🔧 Firmware  ·  🐧 Linux drivers  ·  🖥️ GPU/RTOS  ·  🤖 AI dev tools</text></g>
+  <g clip-path="url(#l5)"><text x="28" y="230"><tspan class="p">➜ ~</tspan><tspan class="c"> cat side_quest.txt</tspan></text></g>
+  <g clip-path="url(#l6)"><text x="28" y="262" class="o">🚀 Mentoring engineers on careers, GATE &amp; AI-era jobs</text></g>
+  <g clip-path="url(#l7)"><text x="28" y="304"><tspan class="p">➜ ~</tspan><tspan class="c"> echo $SOCIALS</tspan></text></g>
+  <g clip-path="url(#l8)"><text x="28" y="336"><tspan class="k">📸 Instagram</tspan><tspan class="o"> → @ribhu_susmita</tspan></text></g>
+
+  <g opacity="0"><animate attributeName="opacity" to="1" dur="0.01s" begin="7.4s" fill="freeze"/>
+    <text x="28" y="376"><tspan class="p">➜ ~</tspan></text>
+    <rect class="cursor" x="72" y="362" width="10" height="18"/>
+  </g>
+</svg>

@@ -88,7 +88,7 @@
     <text class="hi" x="80" y="110">&gt; HELLO WORLD, I'M</text>
     <text class="name" x="76" y="195" fill="url(#name)" filter="url(#glow)">RIBHU MUKHERJEE</text>
     <line class="line" x1="80" y1="222" x2="600" y2="222"/>
-    <text class="role" x="80" y="275">🔧  Embedded firmware engineer @ Qualcomm</text>
+    <text class="role" x="80" y="275">🔧  Senior embedded firmware engineer @ Qualcomm</text>
     <text class="role r2" x="80" y="275">🐧  Linux drivers · RTOS · GPU systems</text>
     <text class="role r3" x="80" y="275">⚡  C · ARM · Zephyr · UEFI · AI tooling</text>
   </g>

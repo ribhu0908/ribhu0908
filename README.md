@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20SW%20Engineer-Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Senior%20Embedded%20SW%20Engineer-Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white"/>
   <img src="https://img.shields.io/badge/IIIT-Bangalore-8a7cff?style=for-the-badge&logo=googlescholar&logoColor=white"/>
   <img src="https://img.shields.io/badge/GATE%20CSE-99.4%20percentile-f59e0b?style=for-the-badge"/>
   <a href="https://www.linkedin.com/in/ribhu-mukherjee"><img src="https://img.shields.io/badge/LinkedIn-ribhu--mukherjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
